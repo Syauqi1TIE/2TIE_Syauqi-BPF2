@@ -1,0 +1,107 @@
+[
+  {
+    "OrderID": "ORD-001",
+    "CustomerName": "Ahmad Subarjo",
+    "Status": "Completed",
+    "TotalPrice": 150000,
+    "OrderDate": "2024-03-01"
+  },
+  {
+    "OrderID": "ORD-002",
+    "CustomerName": "Siti Aminah",
+    "Status": "Pending",
+    "TotalPrice": 85000,
+    "OrderDate": "2024-03-01"
+  },
+  {
+    "OrderID": "ORD-003",
+    "CustomerName": "Budi Santoso",
+    "Status": "Cancelled",
+    "TotalPrice": 210000,
+    "OrderDate": "2024-03-02"
+  },
+  {
+    "OrderID": "ORD-004",
+    "CustomerName": "Dewi Lestari",
+    "Status": "Completed",
+    "TotalPrice": 345000,
+    "OrderDate": "2024-03-02"
+  },
+  {
+    "OrderID": "ORD-005",
+    "CustomerName": "Eko Prasetyo",
+    "Status": "Pending",
+    "TotalPrice": 120000,
+    "OrderDate": "2024-03-03"
+  },
+  {
+    "OrderID": "ORD-006",
+    "CustomerName": "Farida Utami",
+    "Status": "Completed",
+    "TotalPrice": 500000,
+    "OrderDate": "2024-03-03"
+  },
+  {
+    "OrderID": "ORD-007",
+    "CustomerName": "Guntur Wijaya",
+    "Status": "Completed",
+    "TotalPrice": 75000,
+    "OrderDate": "2024-03-04"
+  },
+  {
+    "OrderID": "ORD-008",
+    "CustomerName": "Hany Safitri",
+    "Status": "Cancelled",
+    "TotalPrice": 185000,
+    "OrderDate": "2024-03-04"
+  },
+  {
+    "OrderID": "ORD-009",
+    "CustomerName": "Indra Kusuma",
+    "Status": "Pending",
+    "TotalPrice": 99000,
+    "OrderDate": "2024-03-05"
+  },
+  {
+    "OrderID": "ORD-010",
+    "CustomerName": "Joko Anwar",
+    "Status": "Completed",
+    "TotalPrice": 275000,
+    "OrderDate": "2024-03-05"
+  },
+  {
+    "OrderID": "ORD-011",
+    "CustomerName": "Kartika Sari",
+    "Status": "Completed",
+    "TotalPrice": 420000,
+    "OrderDate": "2024-03-06"
+  },
+  {
+    "OrderID": "ORD-012",
+    "CustomerName": "Lutfi Hakim",
+    "Status": "Pending",
+    "TotalPrice": 135000,
+    "OrderDate": "2024-03-06"
+  },
+  {
+    "OrderID": "ORD-013",
+    "CustomerName": "Maya Puspita",
+    "Status": "Cancelled",
+    "TotalPrice": 310000,
+    "OrderDate": "2024-03-07"
+  },
+  {
+    "OrderID": "ORD-014",
+    "CustomerName": "Nanda Pratama",
+    "Status": "Completed",
+    "TotalPrice": 55000,
+    "OrderDate": "2024-03-07"
+  },
+  {
+    "OrderID": "ORD-015",
+    "CustomerName": "Oki Setiawan",
+    "Status": "Pending",
+    "TotalPrice": 890000,
+    "OrderDate": "2024-03-08"
+  }
+]

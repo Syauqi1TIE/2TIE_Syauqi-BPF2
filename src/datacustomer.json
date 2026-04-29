@@ -1,0 +1,107 @@
+[
+  {
+    "CustomerID": "CUST-001",
+    "CustomerName": "Ahmad Subarjo",
+    "Email": "ahmad.subarjo@example.com",
+    "Phone": "081234567890",
+    "Loyalty": "Gold"
+  },
+  {
+    "CustomerID": "CUST-002",
+    "CustomerName": "Siti Aminah",
+    "Email": "siti.aminah@example.com",
+    "Phone": "081234567891",
+    "Loyalty": "Silver"
+  },
+  {
+    "CustomerID": "CUST-003",
+    "CustomerName": "Budi Santoso",
+    "Email": "budi.santoso@example.com",
+    "Phone": "081234567892",
+    "Loyalty": "Bronze"
+  },
+  {
+    "CustomerID": "CUST-004",
+    "CustomerName": "Dewi Lestari",
+    "Email": "dewi.lestari@example.com",
+    "Phone": "081234567893",
+    "Loyalty": "Gold"
+  },
+  {
+    "CustomerID": "CUST-005",
+    "CustomerName": "Eko Prasetyo",
+    "Email": "eko.prasetyo@example.com",
+    "Phone": "081234567894",
+    "Loyalty": "Silver"
+  },
+  {
+    "CustomerID": "CUST-006",
+    "CustomerName": "Farida Utami",
+    "Email": "farida.utami@example.com",
+    "Phone": "081234567895",
+    "Loyalty": "Gold"
+  },
+  {
+    "CustomerID": "CUST-007",
+    "CustomerName": "Guntur Wijaya",
+    "Email": "guntur.wijaya@example.com",
+    "Phone": "081234567896",
+    "Loyalty": "Bronze"
+  },
+  {
+    "CustomerID": "CUST-008",
+    "CustomerName": "Hany Safitri",
+    "Email": "hany.safitri@example.com",
+    "Phone": "081234567897",
+    "Loyalty": "Silver"
+  },
+  {
+    "CustomerID": "CUST-009",
+    "CustomerName": "Indra Kusuma",
+    "Email": "indra.kusuma@example.com",
+    "Phone": "081234567898",
+    "Loyalty": "Bronze"
+  },
+  {
+    "CustomerID": "CUST-010",
+    "CustomerName": "Joko Anwar",
+    "Email": "joko.anwar@example.com",
+    "Phone": "081234567899",
+    "Loyalty": "Gold"
+  },
+  {
+    "CustomerID": "CUST-011",
+    "CustomerName": "Kartika Sari",
+    "Email": "kartika.sari@example.com",
+    "Phone": "081334567801",
+    "Loyalty": "Gold"
+  },
+  {
+    "CustomerID": "CUST-012",
+    "CustomerName": "Lutfi Hakim",
+    "Email": "lutfi.hakim@example.com",
+    "Phone": "081334567802",
+    "Loyalty": "Silver"
+  },
+  {
+    "CustomerID": "CUST-013",
+    "CustomerName": "Maya Puspita",
+    "Email": "maya.puspita@example.com",
+    "Phone": "081334567803",
+    "Loyalty": "Bronze"
+  },
+  {
+    "CustomerID": "CUST-014",
+    "CustomerName": "Nanda Pratama",
+    "Email": "nanda.pratama@example.com",
+    "Phone": "081334567804",
+    "Loyalty": "Gold"
+  },
+  {
+    "CustomerID": "CUST-015",
+    "CustomerName": "Oki Setiawan",
+    "Email": "oki.setiawan@example.com",
+    "Phone": "081334567805",
+    "Loyalty": "Silver"
+  }
+]
