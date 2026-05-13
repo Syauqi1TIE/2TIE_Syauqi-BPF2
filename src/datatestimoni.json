@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Andi Wijaya",
+    "role": "Food Blogger",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Andi",
+    "review": "Gila sih, burgernya bener-bener juicy banget! Pengirimannya juga cepet banget, sampai di rumah masih anget. Foodies emang juara!",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Siti Aminah",
+    "role": "Ibu Rumah Tangga",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Siti",
+    "review": "Aplikasi paling membantu kalau lagi males masak. Menu Spageti Carbonara-nya jadi favorit anak-anak di rumah. Higienis dan rapi bungkusnya.",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Budi Santoso",
+    "role": "Graphic Designer",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Budi",
+    "review": "Tampilan UI aplikasinya keren banget, mirip web modern luar negeri. Gampang banget buat nyari menu promo harian. Recommended!",
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "name": "Dewi Sartika",
+    "role": "Mahasiswi",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dewi",
+    "review": "Sebagai anak kos, promo di Foodies itu penyelamat banget. Harganya jujur, nggak ada biaya tambahan yang aneh-aneh. Top pokoknya!",
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "name": "Rizky Fauzi",
+    "role": "Karyawan Swasta",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rizky",
+    "review": "Layanan customer service-nya gercep pas saya mau ubah alamat pengiriman. Makanannya enak dan porsinya pas buat makan siang kantor.",
+    "rating": 4
+  }
+]

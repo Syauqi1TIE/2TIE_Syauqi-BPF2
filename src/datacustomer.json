@@ -103,5 +103,12 @@
     "Email": "oki.setiawan@example.com",
     "Phone": "081334567805",
     "Loyalty": "Silver"
+  },
+  {
+    "CustomerID": "CUST-016",
+    "CustomerName": "Poki tensei",
+    "Email": "oki.setiawan@example.com",
+    "Phone": "081334567805",
+    "Loyalty": "Gold"
   }
 ]

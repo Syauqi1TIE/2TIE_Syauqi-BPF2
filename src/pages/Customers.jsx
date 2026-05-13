@@ -1,6 +1,6 @@
 import PageHeader from "../components/PageHeader";
 import DataCustomer from "../datacustomer.json";
-export default function Customers(){
+export default function Customer(){
     return(
       <div className="min-h-screen bg-gray-50 text-gray-900 pb-20">
       <PageHeader />
@@ -31,7 +31,7 @@ export default function Customers(){
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-100">
-                {customerData.map((customer) => (
+                {DataCustomer.map((customer) => (
                   <tr key={customer.CustomerID} className="hover:bg-blue-50/30 transition-colors group">
                     {/* ID */}
                     <td className="px-6 py-4 font-mono text-xs text-gray-400">
