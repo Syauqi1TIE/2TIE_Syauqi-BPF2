@@ -23,6 +23,7 @@ const Orders = React.lazy(() => import("./pages/Order"));
 const Customers = React.lazy(() => import("./pages/Customers"));
 const Products = React.lazy(() => import("./pages/Products"));
 const ProductDetail = React.lazy(() => import("./pages/ProductDetail"))
+const Notes = React.lazy(() => import("./pages/Notes"))
 const NotFound = React.lazy(() => import("./pages/NotFound"));
 
 // Auth Pages
@@ -47,6 +48,7 @@ function App() {
           <Route path="/Customers" element={<Customers />} />
           	<Route path="/Products" element={<Products />} />
             <Route path="/products/:id" element={<ProductDetail />} />
+             <Route path="/Notes" element={<Notes />} />
         </Route>
 
         {/* Authentication Routes */}
